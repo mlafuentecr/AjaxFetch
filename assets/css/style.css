@@ -1,0 +1,27 @@
+
+body {
+  background: #c5c5c5;
+}
+.doggos, .doggyImg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div#imgWrapper {
+  height: 400px;
+}
+.doggos {
+  margin: auto;
+  background:rgb(254, 254, 254);
+  width: 50%;
+  text-align: center;
+}
+
+img.doggyImg {
+  margin: 30px;
+    height: 80%;
+}
+
+.hide {
+  display: none;
+}
